@@ -3,8 +3,5 @@ numpy
 matplotlib
 seaborn
 scikit-learn
-jupyter
 fastapi
 uvicorn
-fastparquet
-pyarrow
