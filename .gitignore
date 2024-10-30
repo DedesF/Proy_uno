@@ -4,3 +4,5 @@
 /.vscode/
 /temp/
 Analisis/ETL_Original.ipynb
+Datasets/credits.csv
+Datasets/movies_dataset.csv
