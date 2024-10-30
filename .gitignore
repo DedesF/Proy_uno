@@ -3,4 +3,4 @@
 # Example .gitignore files: https://github.com/github/gitignore
 /.vscode/
 /temp/
-ETL_Original.ipynb
+Analisis/ETL_Original.ipynb
